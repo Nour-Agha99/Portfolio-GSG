@@ -415,5 +415,5 @@ footer .copy strong{
  /* for small mobil  */
  @media (max-width: 500px) {
     main .group .img1 {
-        padding: 11vh;
+        padding: 10vh;
  }}
